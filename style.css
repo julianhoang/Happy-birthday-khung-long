@@ -49,7 +49,7 @@ span.x4:before, i.x4:before
 
 header .container-fluid
 {
-    background-image: url('https://unsplash.it/2560/1707?image=961');
+    background-image: url('http://i.imgur.com/SlbFMVp.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -89,12 +89,12 @@ header .container-fluid
 .jumbotron h6,
 .jumbotron small
 {
-    color: #FFFFFF;
+    color:#000000;
 }
 
 .jumbotron p
 {
-    color: #FFFFFF;
+    color: #196F3D;
     margin-bottom: 5%;
 }
 
@@ -105,16 +105,16 @@ header .container-fluid
 
 .number .container-fluid
 {
-    background-image: url('https://unsplash.it/3000/2000?image=685');
+    background-image: url('http://i.imgur.com/je2sDGU.jpg?1');
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
+    background-position: left;
 }
 
 .opaline
 {
-    padding-top: 3em;
-    padding-bottom: 3em;
+    padding-top: 1em;
+    padding-bottom: 1em;
     background-color: rgba(128, 215, 247, 0.660);
 }
 
@@ -144,10 +144,10 @@ header .container-fluid
 
 .story .container-fluid
 {
-    background-image: url('https://unsplash.it/3000/2000?image=531');
+    background-image: url('http://i.imgur.com/1yKvFkC.jpg?2');
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
+    background-position: right;
 }
 
 .gallery
